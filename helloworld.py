@@ -1,3 +1,3 @@
-print("Exemplo 1")
+print("Exemplo 1.4785")
 
-print("Exemplo 2")
+print("Exemplo 2.3548")
